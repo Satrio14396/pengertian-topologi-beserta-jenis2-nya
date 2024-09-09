@@ -51,4 +51,21 @@ Jika ada masalah pada kabel, misalnya terputus, maka komputer workstation akan t
 
 ### 3.Topologi Mesh
 Topologi mesh adalah sebuah topologi yang bisa digunakan untuk rute yang banyak. Jaringan topologi ini menggunakan kabel tunggal sehingga proses pengiriman data menjadi lebih cepat tanpa melalui hub atau switch. 
+
 ![image](https://github.com/user-attachments/assets/2e272b00-48b1-404f-8722-4fc2982e32ca)
+
+
+Kelebihan Topologi Star, diantaranya yaitu:
+Jaringan topologi ini tetap berjalan baik meski salah satu komputer client bermasalah.
+Tingkat keamanan data pada topologi ini cukup baik.
+User lebih mudah mendeteksi masalah pada jaringan.
+Lebih fleksibe
+
+Kekurangan Topologi Star, diantaranya yaitu:
+Topologi ini terhitung mahal karena menggunakan cukup banyak kabel.
+Seluruh komputer dalam jaringan ini akan bermasalah jika hub atau switch mengalami masalah.
+Sangat tergantung pada terminal pusat.
+
+### 5. Topologi Tree
+Topologi tree atau topologi pohon adalah hasil penggabungan dari topologi bus dan topologi star. Umumnya, topologi tree digunakan untuk interkoneksi antara hirarki dengan pusat yang berbeda-beda.
+
